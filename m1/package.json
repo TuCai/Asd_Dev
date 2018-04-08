@@ -1,0 +1,33 @@
+{
+  "name": "m1",
+  "version": "1.0.0",
+  "description": "Mean Stach App One",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuCai/aup.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Hanming Tu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuCai/aup/issues"
+  },
+  "homepage": "https://github.com/TuCai/aup#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.12",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.3"
+  }
+}
